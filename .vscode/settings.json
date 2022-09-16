@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        ".gitignore": "ignore",
+        "utility": "cpp",
+        "set": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "ostream": "cpp"
+    }
+}
